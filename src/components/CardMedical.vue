@@ -60,7 +60,7 @@
     margin-top: 5vh;
     height: auto; 
     text-align: center;
-    min-height: 19%;
+    min-height: 26%;
   }
   
   .custom-text {
@@ -72,7 +72,7 @@
     background-color: #AE1613;
     border: 5px solid white; /* Adicionando a borda branca */
     box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.45);
-    margin: 2vh;
+    margin-right: 2vh;
   }
   
   .custom-font-title {
