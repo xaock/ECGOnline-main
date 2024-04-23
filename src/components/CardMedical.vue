@@ -60,11 +60,11 @@
     margin-top: 5vh;
     height: auto; 
     text-align: center;
-    min-height: 26%;
+    min-height: 800px;
   }
   
   .custom-text {
-    padding: 8vh;
+    padding: 6vh;
     font-weight: bolder;
   }
   
