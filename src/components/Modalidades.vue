@@ -13,7 +13,7 @@
                     <v-card class="custom-card-modal" rounded="lg">
                         <v-row>
                             <v-col cols="4">
-                                <v-img src="../assets/Doctors.png" aspect-ratio="1.1" class="card-img" />
+                                <v-img src="../assets/Eq1.png" aspect-ratio="1.1" class="card-img" />
                             </v-col>
                             <v-col cols="8">
                                 <v-card-title class="custom-title-top">Mapa</v-card-title>
